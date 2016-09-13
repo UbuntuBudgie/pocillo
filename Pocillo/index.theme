@@ -1,6 +1,8 @@
 [Icon Theme]
 Name=Pocillo
-Comment=Demo theme for Bubuntu
+Comment=Icon Theme for Budgie Remix
+Inherits=Moka,Faba
+Example=folder
 
 # Directory list
 Directories=16/places,24/places,32/places,48/places,symbolic/places
