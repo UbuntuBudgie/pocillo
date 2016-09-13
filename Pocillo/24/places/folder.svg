@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg5318" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs5320">
+  <clipPath id="clipPath11923" clipPathUnits="userSpaceOnUse">
+   <path id="path11925" style="block-progression:tb;text-indent:0;color:#000000;text-transform:none" d="m433 90v5 5 8s0 2 2 2h18s2 0 2-2v-8-5-2h-8.25c-2.75 0-2.75-3-5.75-3h-8z"/>
+  </clipPath>
+  <linearGradient id="linearGradient5281" y2="288.38" gradientUnits="userSpaceOnUse" y1="230.62" gradientTransform="matrix(.38091 0 0 .38091 -115.94 -86.847)" x2="364.75" x1="364.75">
+   <stop id="stop4970-6" style="stop-color:#74a9e8" offset="0"/>
+   <stop id="stop4972-2" style="stop-color:#428ad2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5284" y2="97" gradientUnits="userSpaceOnUse" y1="87" gradientTransform="translate(-432,-85)" x2="437" x1="437">
+   <stop id="stop11361-7" style="stop-color:#658caf" offset="0"/>
+   <stop id="stop11363-5" style="stop-color:#428ad2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata5323">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path11573" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:url(#linearGradient5284)" d="m1.5 2.4997v5.1004h21v-2.0003h-7.75c-1.5568 0-2.4425-1.0116-3.1562-1.7564-0.714-0.7447-1.261-1.3437-2.594-1.3437z"/>
+ <path id="path11602" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:url(#linearGradient5281)" d="m1.5 7.4997v12.5c-0.0028 1 0.5 1.505 1.5 1.5h18c1 0.0155 1.505-0.49972 1.5-1.5v-12.5z"/>
+ <path id="path11914" style="opacity:0.41;color:#000000;text-indent:0;block-progression:tb;stroke:#000;text-decoration-line:none;stroke-width:2;text-transform:none;fill:none" d="m433 90v18s0 2 2 2h18s2 0 2-2v-15h-8.25c-2.75 0-2.75-3-5.75-3z" clip-path="url(#clipPath11923)" transform="translate(-432 -88)"/>
+ <path id="rect11946" style="opacity:0.41;color:#000000" d="m2 6.9997h20v1h-20z"/>
+ <rect id="rect5385" style="opacity:.1;fill:#fff" height="1" width="20" y="8" x="2"/>
+</svg>
