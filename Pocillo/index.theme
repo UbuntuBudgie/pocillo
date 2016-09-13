@@ -1,0 +1,25 @@
+[Icon Theme]
+Name=Pocillo
+Comment=Demo theme for Bubuntu
+
+# Directory list
+Directories=16/places,48/places,symbolic/places
+
+# Places
+[16/places]
+Context=Places
+Size=16
+Type=Fixed
+
+[48/places]
+Context=Places
+Size=48
+Type=Fixed
+
+[symbolic/places]
+Context=Places
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
