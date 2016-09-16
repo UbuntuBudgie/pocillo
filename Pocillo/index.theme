@@ -5,7 +5,7 @@ Inherits=Moka,Faba
 Example=folder
 
 # Directory list
-Directories=16/places,24/places,32/places,48/places,symbolic/places
+Directories=16/places,24/places,32/places,48/places,64/places,symbolic/places
 
 # Places
 [16/places]
@@ -26,6 +26,11 @@ Type=Fixed
 [48/places]
 Context=Places
 Size=48
+Type=Fixed
+
+[64/places]
+Context=Places
+Size=64
 Type=Fixed
 
 [symbolic/places]
