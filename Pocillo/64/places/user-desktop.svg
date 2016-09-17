@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg4248" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4250">
+  <linearGradient id="linearGradient3921" x1="25" gradientUnits="userSpaceOnUse" x2="25" gradientTransform="matrix(2,0,0,2,-14,-32)" y1="45" y2="42">
+   <stop id="stop3962" style="stop-opacity:0" offset="0"/>
+   <stop id="stop3970" offset=".5"/>
+   <stop id="stop3964" style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3924" gradientUnits="userSpaceOnUse" cy="43.5" cx="9" gradientTransform="matrix(2,0,0,1.5,-12,-10.25)" r="2">
+   <stop id="stop3946" offset="0"/>
+   <stop id="stop3948" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3927" gradientUnits="userSpaceOnUse" cy="43.5" cx="40" gradientTransform="matrix(2,0,0,1.5,-22,-10.25)" r="2">
+   <stop id="stop3954" offset="0"/>
+   <stop id="stop3956" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3932" x1="3" gradientUnits="userSpaceOnUse" x2="29" gradientTransform="matrix(0,2,-2,0,64,-4)" y1="16" y2="16">
+   <stop id="stop3928" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3930" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3157" x1="2.5" gradientUnits="userSpaceOnUse" x2="29.5" gradientTransform="matrix(0,-2,2,0,0,60)" y1="16" y2="16">
+   <stop id="stop3864-8-6-3-6" style="stop-color:#3689e6" offset="0"/>
+   <stop id="stop3866-9-1-7-3" style="stop-color:#90dbec" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3931" x1="2.5" gradientUnits="userSpaceOnUse" x2="29.5" gradientTransform="matrix(0,-2,2,0,0,60)" y1="16" y2="16">
+   <stop id="stop3864-8-6-0-0" style="stop-color:#111" offset="0"/>
+   <stop id="stop3866-9-1-7-38" style="stop-color:#222" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata4253">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="rect3940" style="opacity:.3;fill:url(#radialGradient3927)" d="m58 52v6h1c1.662 0 3-1.338 3-3s-1.338-3-3-3h-1z"/>
+ <path id="rect3942" style="opacity:.3;fill:url(#radialGradient3924)" d="m4.8124 52c-1.558 0-2.8124 1.254-2.8124 2.812v0.375c0 1.5581 1.2544 2.8124 2.8124 2.8124h1.1875v-6h-1.1875z"/>
+ <path id="rect3938" style="opacity:.3;fill:url(#linearGradient3921)" d="m5.9998 52h52v6l-52-0.000002z"/>
+ <path id="path3152" style="fill:url(#linearGradient3157);fill-rule:evenodd" d="m4.5 16v36c0 1.644 1.8564 3.5 3.5 3.5h48c1.644 0 3.5-1.856 3.5-3.5v-36z"/>
+ <path id="rect3894" style="fill:url(#linearGradient3931);fill-rule:evenodd" d="m8 8.5c-1.6436 0-3.5 1.856-3.5 3.5v4h55v-4c0-1.644-1.856-3.5-3.5-3.5z"/>
+ <path id="path3949" style="opacity:.05;fill:#fff;fill-rule:evenodd" d="m8 55c-1.1252 0-3-1.874-3-3v-2c0 1.1253 1 4 3 4h48c2 0 3-2.8747 3-4v2c0 1.1253-1.8747 3-3 3z"/>
+ <path id="path3906" style="color:#000000;block-progression:tb;text-transform:none;opacity:0.61;text-indent:0" d="m8 8c-2.1988 0-4 1.8012-4 4v4h1v-4c0-1.125 1.8748-3 3-3h48c1.126 0 3 1.8485 3 3v4h1v-4c0-2.1988-1.802-4-4-4z"/>
+ <path id="rect3853" d="m5 14h54v2h-54z"/>
+ <path id="rect3855" style="opacity:.4;fill:#fff" d="m5 16h54v1h-54z"/>
+ <path id="path3933" style="opacity:0.61;color:#000000;text-indent:0;block-progression:tb;text-transform:none;fill:#004c6f" d="m4 16v36c0 2.198 1.8012 4 4 4h48c2.198 0 4-1.802 4-4v-36h-1v36c0 1.126-1.874 3-3 3h-48c-1.1252 0-3-1.874-3-3v-36z"/>
+ <path id="path4315" style="opacity:.05;fill:#fff;fill-rule:evenodd" d="m56 9c1.1252 0 3 1.874 3 3v2c0-1.1253-1-4-3-4h-48c-2 0-3 2.875-3 4v-2c0-1.125 1.8747-3 3-3z"/>
+ <path id="path3951" style="opacity:.1;fill:url(#linearGradient3932);fill-rule:evenodd" d="m60 12c0-2.2518-1.545-4-4-4h-48c-2 0-4 1.6884-4 4v40c0 1.1253 2.8747 4 4 4h48c1.1253 0 4-2.8747 4-4zm-3 0v41h-50v-41z"/>
+</svg>
