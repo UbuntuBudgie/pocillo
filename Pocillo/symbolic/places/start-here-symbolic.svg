@@ -11,7 +11,6 @@
   </rdf:RDF>
  </metadata>
  <title id="title8473">Moka Symbolic Icon Theme</title>
- <g id="layer1" transform="translate(-545 -189)">
-  <path id="path6166" style="fill:#bebebe" d="m553 190c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 1c3.3137 0 6 2.6863 6 6s-2.6863 6-6 6-6-2.6863-6-6 2.6863-6 6-6zm0 1c-2.7614 0-5 2.2386-5 5s2.2386 5 5 5 5-2.2386 5-5-2.2386-5-5-5z"/>
- </g>
+ <path id="path3339" style="fill:#bebebe" d="m8 2a6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5z"/>
+ <circle id="circle4143" r="4" style="fill:#bebebe" cx="8" cy="8"/>
 </svg>
