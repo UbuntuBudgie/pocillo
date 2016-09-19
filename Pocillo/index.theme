@@ -14,9 +14,9 @@ Size=16
 Type=Fixed
 
 [16@2x/places]
+Context=Places
 Size=16
 Scale=2
-Context=Places
 Type=Fixed
 
 [24/places]
@@ -25,9 +25,9 @@ Size=24
 Type=Fixed
 
 [24@2x/places]
+Context=Places
 Size=24
 Scale=2
-Context=Places
 Type=Fixed
 
 [32/places]
@@ -36,9 +36,9 @@ Size=32
 Type=Fixed
 
 [32@2x/places]
+Context=Places
 Size=32
 Scale=2
-Context=Places
 Type=Fixed
 
 [48/places]
@@ -47,24 +47,24 @@ Size=48
 Type=Fixed
 
 [48@2x/places]
+Context=Places
 Size=48
 Scale=2
-Context=Places
 Type=Fixed
 
 [64/places]
-Size=64
 Context=Places
+Size=64
 MinSize=49
 MaxSize=512
 Type=Scalable
 
 [64@2x/places]
-Size=64
-Scale=2
 Context=Places
+Size=64
 MinSize=49
 MaxSize=512
+Scale=2
 Type=Scalable
 
 [symbolic/places]
