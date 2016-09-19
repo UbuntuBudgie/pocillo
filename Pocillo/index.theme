@@ -5,7 +5,7 @@ Inherits=Moka,Faba
 Example=folder
 
 # Directory list
-Directories=16/places,24/places,32/places,48/places,64/places,symbolic/places
+Directories=16/places,16@2x/places,24/places,24@2x/places,32/places,32@2x/places,48/places,48@2x/places,64/places,64@2x/places,symbolic/places
 
 # Places
 [16/places]
@@ -13,9 +13,21 @@ Context=Places
 Size=16
 Type=Fixed
 
+[16@2x/places]
+Size=16
+Scale=2
+Context=Places
+Type=Fixed
+
 [24/places]
 Context=Places
 Size=24
+Type=Fixed
+
+[24@2x/places]
+Size=24
+Scale=2
+Context=Places
 Type=Fixed
 
 [32/places]
@@ -23,15 +35,37 @@ Context=Places
 Size=32
 Type=Fixed
 
+[32@2x/places]
+Size=32
+Scale=2
+Context=Places
+Type=Fixed
+
 [48/places]
 Context=Places
 Size=48
 Type=Fixed
 
-[64/places]
+[48@2x/places]
+Size=48
+Scale=2
 Context=Places
-Size=64
 Type=Fixed
+
+[64/places]
+Size=64
+Context=Places
+MinSize=49
+MaxSize=512
+Type=Scalable
+
+[64@2x/places]
+Size=64
+Scale=2
+Context=Places
+MinSize=49
+MaxSize=512
+Type=Scalable
 
 [symbolic/places]
 Context=Places
@@ -39,4 +73,3 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
-
