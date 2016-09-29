@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3546" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3548">
+  <linearGradient id="linearGradient4078" x1="441.74" gradientUnits="userSpaceOnUse" y1="1047.1" gradientTransform="matrix(.72498 0 0 .72498 -311.54 -755.72)" x2="441.74" y2="1060.8">
+   <stop id="stop3947" style="stop-color:#f8e6fe" offset="0"/>
+   <stop id="stop3949" style="stop-color:#edddf2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4081" x1="444" gradientUnits="userSpaceOnUse" y1="1044" gradientTransform="matrix(-.72498 0 0 .72498 326.28 -757.01)" x2="444" y2="1060">
+   <stop id="stop3941" style="stop-color:#f8e6fe" offset="0"/>
+   <stop id="stop3943" style="stop-color:#d1addd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4256" x1="417" gradientUnits="userSpaceOnUse" y1="148" gradientTransform="matrix(0,-1,1,0,-140,432)" x2="431" y2="148">
+   <stop id="stop3864-8-6-3-0" style="stop-color:#846389" offset="0"/>
+   <stop id="stop3866-9-1-7" style="stop-color:#a38ea6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3551">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path4270" style="color:#bebebe;opacity:.15" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3z"/>
+ <path id="path4202" style="color:#bebebe;fill:url(#linearGradient4256)" d="m3 0.5c-1.3844 0-2.5 1.1156-2.5 2.5v10c0 1.3844 1.1156 2.5 2.5 2.5h10c1.3844 0 2.5-1.1156 2.5-2.5v-10c0-1.3844-1.116-2.5-2.5-2.5h-10z"/>
+ <path id="path4190" style="opacity:.2;color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none" d="m3.5 7c-0.2327 0-0.5 0.2085-0.5 0.5v5c0 0.301 0.2463 0.5 0.5 0.5h9c0.30456 0 0.5-0.22531 0.5-0.5v-5c0-0.2584-0.219-0.5-0.5-0.5z"/>
+ <path id="path4069" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:url(#linearGradient4081)" d="m3 3.5v3.5h10v-2.5c0-0.2628-0.211-0.5-0.5-0.5h-4.5c-1 0-1-1-2-1h-2.5c-0.2707 0-0.5 0.2105-0.5 0.5z"/>
+ <path id="path4186" style="opacity:.2;color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none" d="m3.5 5c-0.2327 0-0.5 0.2085-0.5 0.5v5c0 0.301 0.2463 0.5 0.5 0.5h9c0.30456 0 0.5-0.22531 0.5-0.5v-5c0-0.2584-0.219-0.5-0.5-0.5z"/>
+ <path id="path4071" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:url(#linearGradient4078)" d="m3.5 6c-0.2327 0-0.5 0.2085-0.5 0.5v5c0 0.301 0.2463 0.5 0.5 0.5h9c0.30456 0 0.5-0.22531 0.5-0.5v-5c0-0.2584-0.219-0.5-0.5-0.5z"/>
+ <path id="rect3896" style="color:#bebebe;opacity:0.13;fill:#fff" d="m3 1c-1.1253 0-2 0.8747-2 2v1c0-1.1253 0.8747-2 2-2h10c1.1253 0 2 0.8747 2 2v-1c0-1.1253-0.875-2-2-2h-10z"/>
+ <path id="path4087" style="color:#bebebe;opacity:.15" d="m13 16c1.1253 0 2-0.8747 2-2v-1c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v1c0 1.1253 0.8747 2 2 2h10z"/>
+ <path id="path4304" style="color:#bebebe;opacity:.1;fill:#fff" d="m3 14.5c-1.1253 0-2-0.8747-2-2v-1c0 1.1253 0.8747 2 2 2h10c1.1253 0 2-0.8747 2-2v1c0 1.1253-0.8747 2-2 2h-10z"/>
+ <path id="rect4095" style="color:#bebebe;opacity:0.41" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3h-10zm0 1h10c1.1253 0 2 0.8747 2 2v10c0 1.1253-0.8747 2-2 2h-10c-1.1253 0-2-0.875-2-2v-10c0-1.1253 0.8747-2 2-2z"/>
+ <path id="rect3369" style="fill:#fff" d="m3.5 6c-0.2327 0-0.5 0.2085-0.5 0.5v0.5h10v-0.5c0-0.2584-0.219-0.5-0.5-0.5h-9z"/>
+ <path id="path4181" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;text-transform:none;fill:#fff" d="m3.5 3c-0.2707 0-0.5 0.2105-0.5 0.5v1c0-0.2895 0.2293-0.5 0.5-0.5h2.5c1 0 1 1 2 1h4.5c0.289 0 0.5 0.2372 0.5 0.5v-1c0-0.2628-0.211-0.5-0.5-0.5h-4.5c-1 0-1-1-2-1z"/>
+</svg>
