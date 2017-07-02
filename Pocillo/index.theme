@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Pocillo
-Comment=Icon Theme for Budgie Remix
-Inherits=Moka,Faba
+Comment=Icon Theme for Ubuntu Budgie
+Inherits=Faba-Mono,Moka,Faba
 Example=folder
 
 # Directory list
