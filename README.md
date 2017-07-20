@@ -11,4 +11,4 @@
     <img title="Bubuntu Logo" src="https://cloud.githubusercontent.com/assets/5920259/22408873/89f118ca-e678-11e6-8966-12317eb77fce.png" />
 </div>
 
-Pocillo is an icon theme designed for Budgie Remix based. It is based upon icons from the [Faba](https://github.com/snwh/faba-icon-theme) and [Moka](https://github.com/snwh/moka-icon-theme) icon themes by [Sam Hewitt](https://samuelhewitt.com/). As such it is licensed under the terms of the GNU GPLv3.
+Pocillo is an icon theme designed for [Ubuntu Budgie](http://ubuntubudgie.org/). It is based upon icons from the [Faba](https://github.com/snwh/faba-icon-theme)  and [Moka](https://github.com/snwh/moka-icon-theme) icon themes by [Sam Hewitt](https://samuelhewitt.com/), and incorporates the [Faba-Mono](https://github.com/snwh/faba-mono-icons) theme in order to provide a complete panel experience. As such it is licensed under the terms of the GNU GPLv3.
