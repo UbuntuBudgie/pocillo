@@ -1,11 +1,11 @@
 [Icon Theme]
 Name=Pocillo
-Comment=Icon Theme for Budgie Remix
+Comment=Icon Theme for Ubuntu Budgie
 Inherits=Moka,Faba
 Example=folder
 
 # Directory list
-Directories=16/actions,16@2x/actions,24/actions,24@2x/actions,32/actions,32@2x/actions,48/actions,48@2x/actions,64/actions,64@2x/actions,16/apps,16@2x/apps,24/apps,24@2x/apps,32/apps,32@2x/apps,48/apps,48@2x/apps,64/apps,64@2x/apps,16/places,16@2x/places,24/places,24@2x/places,32/places,32@2x/places,48/places,48@2x/places,64/places,64@2x/places,symbolic/places
+Directories=16/actions,16@2x/actions,24/actions,24@2x/actions,32/actions,32@2x/actions,48/actions,48@2x/actions,64/actions,64@2x/actions,22/animations,22@2x/animations,24/animations,24@2x/animations,16/apps,16@2x/apps,24/apps,24@2x/apps,32/apps,32@2x/apps,48/apps,48@2x/apps,64/apps,64@2x/apps,22/panel,22@2x/panel,24/panel,24@2x/panel,16/places,16@2x/places,24/places,24@2x/places,32/places,32@2x/places,48/places,48@2x/places,64/places,64@2x/places,symbolic/places,16/status,16@2x/status,22/status,22@2x/status,24/status,24@2x/status
 
 
 # Actions
@@ -69,6 +69,30 @@ Scale=2
 Type=Scalable
 
 
+# Animations
+[22/animations]
+Context=Animations
+Size=22
+Type=Fixed
+
+[22@2x/animations]
+Context=Animations
+Size=22
+Scale=2
+Type=Fixed
+
+[24/animations]
+Context=Animations
+Size=24
+Type=Fixed
+
+[24@2x/animations]
+Context=Animations
+Size=24
+Scale=2
+Type=Fixed
+
+
 # Apps
 [16/apps]
 Context=Applications
@@ -128,6 +152,37 @@ MinSize=49
 MaxSize=512
 Scale=2
 Type=Scalable
+
+
+# Notifications
+[48/notifications]
+Context=Status
+Size=48
+Type=Fixed
+
+
+# Panel
+[22/panel]
+Context=Status
+Size=22
+Type=Fixed
+
+[22@2x/panel]
+Context=Status
+Size=22
+Scale=2
+Type=Fixed
+
+[24/panel]
+Context=Status
+Size=24
+Type=Fixed
+
+[24@2x/panel]
+Context=Status
+Size=24
+Scale=2
+Type=Fixed
 
 
 # Places
@@ -196,3 +251,38 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
+
+
+# Status
+[16/status]
+Context=Status
+Size=16
+Type=Fixed
+
+[16@2x/status]
+Context=Status
+Size=16
+Scale=2
+Type=Fixed
+
+[22/status]
+Context=Status
+Size=22
+Type=Fixed
+
+[22@2x/status]
+Context=Status
+Size=22
+Scale=2
+Type=Fixed
+
+[24/status]
+Context=Status
+Size=24
+Type=Fixed
+
+[24@2x/status]
+Context=Status
+Size=24
+Scale=2
+Type=Fixed
