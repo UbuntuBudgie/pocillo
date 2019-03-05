@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="display:inline;enable-background:new"
    version="1.0"
    id="svg11300"
    height="300"
-   width="480">
+   width="480"
+   sodipodi:docname="livepatch-new.svg"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     id="namedview935"
+     showgrid="false"
+     inkscape:zoom="3.9866667"
+     inkscape:cx="240"
+     inkscape:cy="150"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
   <defs
      id="defs3">
     <linearGradient
